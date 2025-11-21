@@ -1,2 +1,10 @@
-
-Console.Writeline("Hello, please work");
+// Introduce the game, name + rules
+// Ask player if they are playing alone or with another person
+// Generate random positions and assign a number to them (two positions per number)
+// Draw the board of question marks as memory cards (and values get assigned to each question mark, this is not shown to the player)
+//Loop starts, if one player then start timer
+// Let the player navigate the cards
+// Player gets to choose two cards and then they are shown what their values are and if they are the same player get 1 points and remove the values from the game, if not make them back into question marks
+// If there are two players the other player is now playing
+// Loop ends when all values are gone
+//The player with the most points wins the game, stopping timer for one player so they can try and beat their own time.
